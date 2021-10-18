@@ -1,0 +1,20 @@
+<joblist>
+  <job>
+    <defaultTab>nodes</defaultTab>
+    <description></description>
+    <executionEnabled>true</executionEnabled>
+    <id>6a5eef92-9efc-40ad-bbf5-fd259f69dc30</id>
+    <loglevel>INFO</loglevel>
+    <name>job_scmPlugin</name>
+    <nodeFilterEditable>false</nodeFilterEditable>
+    <plugins />
+    <scheduleEnabled>true</scheduleEnabled>
+    <schedules />
+    <sequence keepgoing='false' strategy='node-first'>
+      <command>
+        <exec>ip a</exec>
+      </command>
+    </sequence>
+    <uuid>6a5eef92-9efc-40ad-bbf5-fd259f69dc30</uuid>
+  </job>
+</joblist>
