@@ -3,7 +3,7 @@
     <defaultTab>nodes</defaultTab>
     <description></description>
     <executionEnabled>true</executionEnabled>
-    <id>6a5eef92-9efc-40ad-bbf5-fd259f69dc30</id>
+    <id>6a5eef92-9efc-40ad-bbf5-fd259f69dc40</id>
     <loglevel>INFO</loglevel>
     <name>job_scmPlugin</name>
     <nodeFilterEditable>false</nodeFilterEditable>
